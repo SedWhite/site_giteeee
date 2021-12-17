@@ -13,3 +13,6 @@ ul {
     justify-content: space-around;
     flex-direction: row;
 }
+main>p {
+    width: 400px;
+}

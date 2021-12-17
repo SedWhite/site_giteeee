@@ -25,3 +25,7 @@ main {
     flex-direction: column;
     text-align: center;
 }
+
+main>p {
+    width: 400px;
+}
